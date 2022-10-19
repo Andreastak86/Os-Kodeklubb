@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Os-Kodeklubb/static/css/main.073c9b0a.css",
+    "main.js": "/Os-Kodeklubb/static/js/main.3a9f4a35.js",
+    "static/js/787.96b810fc.chunk.js": "/Os-Kodeklubb/static/js/787.96b810fc.chunk.js",
+    "static/media/logo.svg": "/Os-Kodeklubb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Os-Kodeklubb/index.html",
+    "main.073c9b0a.css.map": "/Os-Kodeklubb/static/css/main.073c9b0a.css.map",
+    "main.3a9f4a35.js.map": "/Os-Kodeklubb/static/js/main.3a9f4a35.js.map",
+    "787.96b810fc.chunk.js.map": "/Os-Kodeklubb/static/js/787.96b810fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3a9f4a35.js"
+  ]
+}
